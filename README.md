@@ -14,7 +14,7 @@ Este é o MVP da sprint de Gestão Ágil de Produtos da PUCRJ. O objetivo do pro
 ## Arquivos Anexados
 
 - **Wireframes de Baixa Fidelidade**  
-  Arquivos contendo os wireframes de baixa fidelidade para o design da aplicação.
+  Arquivo contendo o wireframe de baixa fidelidade para o design da aplicação.
 
 - **PDF com Informações do Jira**  
   PDF contendo detalhes e informações sobre as tarefas e o andamento do projeto no Jira.
