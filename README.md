@@ -8,8 +8,8 @@ Este é o MVP da sprint de Gestão Ágil de Produtos da PUCRJ. O objetivo do pro
 - [Miro Board](https://miro.com/welcomeonboard/ZmNxcFBxWkdYWHdQSEZSdU1hL2UyMnh5bFZwNlJpc0VaNUlDSnRDMFVhdnFzejVONWlDSVlDeWRjdzVGSVYrb2I5ZW5hdmdpMUhKQmVMRWtsZ3hUdHZlbHQ2NzJCOTRXNkVhSDE3b1FUSVJmR2FWekM1eGZWZ2psdGFpYWt0UW0hZQ==?share_link_id=919248632061)
   - Acesse o quadro do Miro para ver o planejamento visual do MVP.
   
-- [Vídeo de Apresentação](#)
-  - Link para o vídeo de apresentação do projeto.
+- [Vídeo de Apresentação](https://www.youtube.com/watch?v=vmricFB7r5Q)
+  - Link para o vídeo de apresentação do projeto. (obs: Recomendo assitir com a velocidade 1,5 para agilizar a correção)
 
 ## Arquivos Anexados
 
